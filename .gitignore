@@ -2,7 +2,7 @@
 *.class
 *.log
 .idea/
-
+.Project/
 # sbt specific
 .cache
 .history
